@@ -1,4 +1,7 @@
 ## Hi there 👋
+### 🐍 Contribution Snake
+![snake svg](https://raw.githubusercontent.com/KrzWit/KrzWit/output/github-snake.svg#gh-light-mode-only)
+![snake svg](https://raw.githubusercontent.com/KrzWit/KrzWit/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **KrzWit/KrzWit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
