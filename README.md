@@ -37,10 +37,9 @@ Interested in Python, SQL, Linux, Docker, cloud tools, and building practical so
 
 ## Contact
 
-<a href="[https://www.linkedin.com/in/TWOJ-LINK/](https://www.linkedin.com/in/krzysztof-witek-b4320b315/?locale=pl)" target="_blank">
+<a href="https://www.linkedin.com/in/krzysztof-witek-b4320b315/?locale=pl" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="95" alt="LinkedIn" />
 </a>
-
 
 ### 🐍 Contribution Snake
 ![snake svg](https://raw.githubusercontent.com/KrzWit/KrzWit/output/github-snake.svg#gh-light-mode-only)
